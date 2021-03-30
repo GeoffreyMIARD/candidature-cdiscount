@@ -12,10 +12,9 @@
   text-decoration: none;
   color: white;
   padding: 100px;
+ 
 }
-.liste1{
-height: 25px;
-}
+
 
 .textBleuCdiscount {
   color: rgb(41, 56, 71);
@@ -53,6 +52,10 @@ body {
 .dropdown {
   position: relative;
   display: inline-block;
+  font-size: 15px;
+  margin-top: auto;
+ margin-bottom: auto;
+ 
 }
 
 .dropdown-content {
