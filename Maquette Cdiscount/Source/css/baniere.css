@@ -1,0 +1,56 @@
+.promo1 {
+  color: rgb(41, 56, 71);
+  background-color: orangered;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: auto%;
+}
+.promo2 {
+  color: orangered;
+  font-size: 60px;
+  font-weight: bold;
+}
+.ban{
+    text-decoration: none;
+}
+
+.promo3 {
+  color: white;
+ 
+}
+.promo4 {
+  color: red;
+  
+  font-size: 30px;
+  
+}
+.promo5 {
+  color: rgb(41, 56, 71);
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
+ 
+}
+.promo6 {
+  margin-top: auto;
+  margin-bottom: auto;
+  color: rgb(41, 56, 71);
+  font-weight: bold;
+}
+.promo7 {
+  color: rgb(41, 56, 71);
+  margin-top: -20px;
+  font-weight: bold;
+  height: 100%;
+}
+.promo8{
+    background: white;
+}
+
+.promo9{
+    background-color: rgb(41, 56, 71);
+    font-weight: bold;
+}

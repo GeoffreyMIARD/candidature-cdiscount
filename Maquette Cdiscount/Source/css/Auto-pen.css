@@ -1,0 +1,28 @@
+.nerdy-pen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.nerdy-pen__text {
+  color:black;
+  font-family: "Roboto", sans-serif;
+ 
+  text-align: center;
+  font-size: 20px;
+}
+
+.formulaire{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: -25px;
+    padding-bottom: -5px;
+}
+
+.loupe{
+    height: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
